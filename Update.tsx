@@ -90,3 +90,4 @@
 {"error":"{\"Error_GUID\":\"2374570326046542038\",\"Error\":\"Failed all relay retries due to timeout consider adding 'lava-relay-timeout' header to extend the allowed timeout duration {GUID:2374570326046542038}\"}"}
 {"error":"{\"Error_GUID\":\"9539972147916261774\",\"Error\":\"Failed all retries {GUID:9539972147916261774,error:No pairings available.,chain_id:ETH1}\"}"}
 {"error":"{\"Error_GUID\":\"7954365355552141604\",\"Error\":\"Failed all retries {GUID:7954365355552141604,error:No pairings available.,chain_id:ETH1}\"}"}
+{"error":"{\"Error_GUID\":\"6797715222869540049\",\"Error\":\"Failed all retries {GUID:6797715222869540049,error:No pairings available.,chain_id:ETH1}\"}"}
